@@ -30,4 +30,42 @@ Y. Bai, L. Chen, **L. Zhang**, M. Abdel-Mottaleb, J. Xu.
 <i>Workshop on Edge Computing and Communications (EdgeComm) (in conjunction with SEC)</i>. <b>SEC 2020</b>.
 
 ### Early publications
+<br>
+<b>Unit Commitment with Wind Power and Pumped Hydro Energy Storage</b> <br>
+Q. Niu, D. Hua, L. Zhang, C. Wang.
+<i>Theory, Methodology, Tools, and Applications for Modeling and Simulation of Complex Systems, 2016.</i>.
+
+<br>
+<b>Learning-Based Evolutionary Optimization for Optimal Power Flow</b> <br>
+Q. Niu, W. Peng, L. Zhang.
+<i>International Conference in Intelligent Computing, 2015.</i>.
+
+<br>
+<b>Unit Commitment with Electric Vehicles Based on An Improved Harmony Search Algorithm</b> <br>
+Q. Niu, C. Wang, L. Zhang.
+<i>International Conference in Swarm Intelligence, 2015.</i>.
+
+<br>
+<b>Integration of Electric Vehicle Charging in Unit Commitment</b> <br>
+L. Zhang, Q. Niu, Z. Yang, K. Li.
+<i>Int J Comput Sci Electron Eng, 2015.</i>.
+
+<br>
+<b>A Biogeography-Based Optimization Algorithm with Mutation Strategies for Model Parameter Estimation of Solar and Fuel Cells</b> <br>
+Q. Niu, L. Zhang, K. Li.
+<i>Energy conversion and management, 2014.</i>.
+
+<br>
+<b>Impact of Wind Power Penetration on Unit Commitment</b> <br>
+Q. Niu, L. Zhang, H. Zhang.
+<i>Intelligent Computing in Smart Grid and Electrical Vehicle, 2014.</i>.
+
+
+
+
+
+
+
+
+
 
