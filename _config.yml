@@ -116,7 +116,6 @@ author:
   youtube          :
   wikipedia        :
   
-
 # Reading Files
 include:
   - .htaccess
