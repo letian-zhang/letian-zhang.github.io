@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 # Works
-- ### **Research Assistant**
+* ### **Research Assistant**
 University of Miami, 2018 to present.
-- ### **Teaching Assistant**
+* ### **Teaching Assistant**
 University of Miami, 2020 to 2021.
   - ECE212-S - Processors: Hardware, Software, and Interfacing (Fall 2020, Spring 2021).
   - ECE417-O - Embedded Microprocessor System Design (Fall 2020).
