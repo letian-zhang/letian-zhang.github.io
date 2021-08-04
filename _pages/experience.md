@@ -6,7 +6,17 @@ author_profile: true
 ---
 
 # Works
-## **Research Assistant**
+### **Research Assistant**
+University of Miami, 2018 to present.
+### **Teaching Assistant**
+University of Miami, 2020 to 2021.
+- ECE212-S - Processors: Hardware, Software, and Interfacing (Fall 2020, Spring 2021).
+- ECE417-O - Embedded Microprocessor System Design (Fall 2020).
+Courses taught include circuit analysis, digital logic, microprocessors, computer architecture (undergraduate and graduate levels), and embedded systems design based on DE1-SOC kit. 
+### **Software Engineer**
+ZTE Corporation,  2015 to 2018.
+### Research Assistant
+Shanghai University, 08/2012 to 05/2015.
 
 # Awards
 - WWW Student Scholarship, 2021
