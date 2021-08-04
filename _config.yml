@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Letian Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Miami, USA"
   employer         :
   pubmed           : 
