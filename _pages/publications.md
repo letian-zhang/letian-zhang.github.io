@@ -27,7 +27,7 @@ Y. Bai, L. Chen, **L. Zhang**, M. Abdel-Mottaleb, J. Xu.
 <br>
 <b>[Preventing Malware Propagation in D2D Offloading Networks with Strategic Mobile Users](https://ieeexplore.ieee.org/document/9014227)</b> <br>
 **L. Zhang**, L. Song, J. Xu.
-<i>Workshop on Edge Computing and Communications (EdgeComm) (in conjunction with SEC)</i>. <b>SEC 2020</b>.
+<i>Workshop on Edge Computing and Communications (EdgeComm) (in conjunction with SEC)</i>. <b>GLOBECOM 2019</b>.
 
 ### Early publications
 <br>
