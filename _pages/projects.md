@@ -30,3 +30,6 @@ author_profile: true
   * 2018 to present
 
 ## Early Projects
+* ### 基于仿生优化算法的含可再生能源机组负荷调度研究
+ * NSFC Grant 61273040
+ * 2012 to 2017
