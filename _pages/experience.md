@@ -12,7 +12,7 @@ University of Miami, 2018 to present.
 University of Miami, 2020 to 2021.
   * ECE212-S - Processors: Hardware, Software, and Interfacing (Fall 2020, Spring 2021).
   * ECE417-O - Embedded Microprocessor System Design (Fall 2020).
-  Courses taught include circuit analysis, digital logic, microprocessors, computer architecture (undergraduate and graduate levels), and embedded systems design based on DE1-SOC kit.
+  * Courses taught include circuit analysis, digital logic, microprocessors, computer architecture (undergraduate and graduate levels), and embedded systems design based on DE1-SOC kit.
 
 * ### **Software Engineer**
 ZTE Corporation,  2015 to 2018.
