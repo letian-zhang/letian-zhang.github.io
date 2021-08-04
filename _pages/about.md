@@ -16,4 +16,6 @@ Letian Zhang is currently a Ph.D. candidate in Electrical Engineering, Universit
 - Edge Intelligence
 - Network Security
 
-
+# News
+- [03/2021] I received the Student Scholarship award to attend the Web Conference 2021.
+- [01/2021] Our paper "**Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning**" is accepted by ACM The Web Conference (WWW) 2021 (acceptance rate 20.6%). 
