@@ -8,7 +8,7 @@ author_profile: true
 <b>[Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning](https://arxiv.org/abs/2102.02638)</b> <br>
 **L. Zhang**, L. Chen, J. Xu.
 <i>Proceedings of the Web Conference 2021</i>. <b>WWW 2021</b>.
-[video](https://www.youtube.com/watch?v=VSqSmeg4mAM)[code](https://github.com/letian-zhang/ANS)
+[video](https://www.youtube.com/watch?v=VSqSmeg4mAM), [code](https://github.com/letian-zhang/ANS)
 
 <br>
 <b>Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms</b> <br>
