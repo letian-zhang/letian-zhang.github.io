@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 <br>
+<b>[Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements]</b> <br>
+**L. Zhang**, J. Xu.
+<i>IEEE Internet of Things Journal, 2021</i>.
+
+<br>
 <b>[Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning](https://arxiv.org/abs/2102.02638)</b> <br>
 **L. Zhang**, L. Chen, J. Xu.
 <i>Proceedings of the Web Conference 2021</i>. <b>WWW 2021</b>.
