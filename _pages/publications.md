@@ -16,7 +16,7 @@ author_profile: true
 [video](https://www.youtube.com/watch?v=VSqSmeg4mAM), [code](https://github.com/letian-zhang/ANS)
 
 <br>
-<b>Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms</b> <br>
+<b>[Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms](https://ieeexplore.ieee.org/document/9637765)</b> <br>
 Y. Bai, L. Chen, **L. Zhang**, M. Abdel-Mottaleb, J. Xu.
 <i>IEEE International Conference on Mobile Ad-Hoc and Smart Systems</i>. <b>MASS 2021</b>.
 
