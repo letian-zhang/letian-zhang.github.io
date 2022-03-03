@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 - **L. Zhang**, J. Xu. [Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements](https://ieeexplore.ieee.org/document/9612607), IEEE Internet of Things Journal, 2021.
+- **L. Zhang**, L. Chen, J. Xu. [Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning](https://arxiv.org/abs/2102.02638), Proceedings of the Web Conference 2021. **WWW 2021**. [video](https://www.youtube.com/watch?v=VSqSmeg4mAM), [code](https://github.com/letian-zhang/ANS)
 
 <br>
 <b>[Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements](https://ieeexplore.ieee.org/document/9612607)</b> <br>
