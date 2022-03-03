@@ -16,7 +16,8 @@ University of Miami, 2020 to 2021.
 
 * ### **Software Engineer**
 ZTE Corporation,  2015 to 2018.
-  * Our team developed the product ZXUN SSS-Supplementary Service Server based on the 3GPP standard.
+  * Our team developed the product [ZXUN SSS-Supplementary Service Server](https://www.zte.com.cn/global/products/core_network/packet_core/voice_communication/425187) based on the 3GPP standard.
+  * C, C++, Python
 * ### Research Assistant
 Shanghai University, 08/2012 to 05/2015.
 
@@ -29,7 +30,7 @@ Shanghai University, 08/2012 to 05/2015.
 # Paper Reviewers
 - IEEE Transactions on Network Science and Engineering
 - IEEE Transactions on Green Communications and Networking
-- IEEE WCNC 2021
+- IEEE WCNC 2021, 2022
 - IEEE Globecom 2019
 
 # Professional Membership
