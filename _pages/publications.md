@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **L. Zhang**, J. Xu. Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements](https://ieeexplore.ieee.org/document/9612607), IEEE Internet of Things Journal, 2021.
+
 <br>
 <b>[Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements](https://ieeexplore.ieee.org/document/9612607)</b> <br>
 **L. Zhang**, J. Xu.
