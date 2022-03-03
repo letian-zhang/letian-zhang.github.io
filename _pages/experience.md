@@ -16,6 +16,7 @@ University of Miami, 2020 to 2021.
 
 * ### **Software Engineer**
 ZTE Corporation,  2015 to 2018.
+  * Our team developed the product ZXUN SSS-Supplementary Service Server based on the 3GPP standard.
 * ### Research Assistant
 Shanghai University, 08/2012 to 05/2015.
 
