@@ -13,6 +13,7 @@ Letian Zhang is currently a Ph.D. candidate in Electrical and Computer Engineeri
 
 ### Research Interests:
 - Mobile/IoT System Design
+- AR/VR System Design
 - Edge Intelligence
 - Network Security
 
