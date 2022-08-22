@@ -18,6 +18,7 @@ Letian Zhang is currently a Ph.D. candidate in Electrical and Computer Engineeri
 - Network Security
 
 # News
+- [08/2022] I finished my research intern in Futurewei at Summer 2022.
 - [07/2021] Our paper "**Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms**" is accepted by MASS 2021. 
 - [03/2021] I received the Student Scholarship award to attend the Web Conference 2021.
 - [01/2021] Our paper "**Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning**" is accepted by ACM The Web Conference (WWW) 2021 (acceptance rate 20.6%). 
