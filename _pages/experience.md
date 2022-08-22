@@ -7,6 +7,9 @@ author_profile: true
 
 # Works
 * ### **Research Assistant**
+Research Internship, Futurewei, Summer 2022.
+  * Research intern at IC lab. Focus on neural rendering dynamic human poses in metaverse.
+* ### **Research Assistant**
 University of Miami, 2018 to present.
 * ### **Teaching Assistant**
 University of Miami, 2020 to 2021.
