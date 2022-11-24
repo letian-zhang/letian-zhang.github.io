@@ -25,6 +25,7 @@ ZTE Corporation,  2015 to 2018.
 Shanghai University, 08/2012 to 05/2015.
 
 # Awards
+- Eliahu I. and Joyce Jury award, University of Miami, The best graduate from the department on 2022
 - WWW Student Scholarship, 2021
 - National Scholarship for Graduate Students (Top 3% of all students), 2014
 - Kwang-Hua First Prize Scholarship (Top 3% of all students), 2014
