@@ -18,7 +18,7 @@ Letian Zhang is currently a Ph.D. candidate in Electrical and Computer Engineeri
 - Network Security
 
 # News
-- [11/2022] Selected to receive the Eliahu I and Joyce Jury Award, the best graduate in the Electrical and Computer Engineering department on 2022!
+- [11/2022] Selected to receive **Eliahu I and Joyce Jury Award**, the best graduate in the Electrical and Computer Engineering department on 2022!
 - [08/2022] I finished my Summer 2022 research intern in Futurewei about Neural Rendering in metaverse.
 - [07/2021] Our paper "**Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms**" is accepted by MASS 2021. 
 - [03/2021] I received the Student Scholarship award to attend the Web Conference 2021.
