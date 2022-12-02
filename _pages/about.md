@@ -18,6 +18,7 @@ Letian Zhang is currently a Ph.D. candidate in Electrical and Computer Engineeri
 - Network Security
 
 # News
+- [12/2022] Our paper "**Adversarial Group Linear Bandits and Its Application to Collaborative Edge Inference**" is accepted by INFOCOM 2023.
 - [11/2022] Selected to receive **Eliahu I and Joyce Jury Award**, the best graduate in the Electrical and Computer Engineering department on 2022!
 - [08/2022] I finished my Summer 2022 research intern in Futurewei about Neural Rendering in metaverse.
 - [07/2021] Our paper "**Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms**" is accepted by MASS 2021. 
