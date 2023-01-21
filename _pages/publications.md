@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **L. Zhang**, J. Xu. E^3Pose: Energy-Efficient Edge-assisted Multi-camera System for Multi-human 3D Pose Estimation. The 8th ACM/IEEE Conference on Internet of Things Design and Implementation. **IoTDI 2023**.
+- **L. Zhang**, J. Xu. E<sup>3</sup>Pose: Energy-Efficient Edge-assisted Multi-camera System for Multi-human 3D Pose Estimation. The 8th ACM/IEEE Conference on Internet of Things Design and Implementation. **IoTDI 2023**.
 - H. Yin, **L. Zhang**, J. Xu. Adversarial Group Linear Bandits and Its Application to Collaborative Edge Inference. IEEE International Conference on Computer Communications. **INFOCOM 2023**.
 - **L. Zhang**, J. Xu. [Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements](https://ieeexplore.ieee.org/document/9612607). IEEE Internet of Things Journal, 2021.
 - **L. Zhang**, L. Chen, J. Xu. [Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning](https://arxiv.org/abs/2102.02638). Proceedings of the Web Conference 2021. **WWW 2021**. [video](https://www.youtube.com/watch?v=VSqSmeg4mAM), [code](https://github.com/letian-zhang/ANS)
