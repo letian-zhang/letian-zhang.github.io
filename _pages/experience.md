@@ -32,6 +32,7 @@ Shanghai University, 08/2012 to 05/2015.
 - Shanghai Normal University Scholarship (three times), 2008 to 2011
 
 # Paper Reviewers
+- IEEE Transactions on Mobile Computing
 - IEEE Open Journal of the Communications Society
 - IEEE Transactions on Network Science and Engineering
 - IEEE Transactions on Green Communications and Networking
