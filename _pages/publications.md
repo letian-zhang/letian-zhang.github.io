@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+- C. Shen, **L. Zhang**, Z. Yang, M. Mortazavi, L. Peng, H. Yu. Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering. Efficient Deep Learning for Computer Vision CVPR Workshop 2023.
 - **L. Zhang**, J. Xu. [E<sup>3</sup>Pose: Energy-Efficient Edge-assisted Multi-camera System for Multi-human 3D Pose Estimation](https://arxiv.org/abs/2301.09015). The 8th ACM/IEEE Conference on Internet of Things Design and Implementation. **IoTDI 2023**.
 - H. Yin, **L. Zhang**, J. Xu. Adversarial Group Linear Bandits and Its Application to Collaborative Edge Inference. IEEE International Conference on Computer Communications. **INFOCOM 2023**.
 - **L. Zhang**, J. Xu. [Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements](https://ieeexplore.ieee.org/document/9612607). IEEE Internet of Things Journal, 2021.
