@@ -12,7 +12,7 @@ redirect_from:
 Letian Zhang is currently a Ph.D. candidate in Electrical and Computer Engineering Department, University of Miami, under supervision of Prof. [Jie Xu](https://sites.google.com/site/jiexuhomepage/home) since 2018. From 2015 to 2018, he worked in [ZTE Corporation](https://www.zte.com.cn/global/) as a Software Engineer. Prior to that, he received his M.S. and B.S. degrees in Electrical Engineering from Shanghai University and Shanghai Normal University in 2015 and 2012, respectively.
 
 ### Research Interests:
-- AI/Machine Learning for wireless networking.
+- AI/Machine Learning for wireless networking
 - Systems for AI/Machine Learning
 
 # News
