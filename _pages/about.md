@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 # About Me
-Letian Zhang is currently a Ph.D. candidate in Electrical and Computer Engineering Department, University of Miami, under supervision of Prof. [Jie Xu](https://sites.google.com/site/jiexuhomepage/home) since 2018. From 2015 to 2018, he worked in [ZTE Corporation](https://www.zte.com.cn/global/) as a Software Engineer. Prior to that, he received his M.S. and B.S. degrees in Electrical Engineering from Shanghai University and Shanghai Normal University in 2015 and 2012, respectively.
+I am a tenure-track Assistant Professor of Computer Science at the Middle Tennessee State University. I obtained his Ph.D. degree in Electrical and Computer Engineering Department, University of Miami, under supervision of Prof. [Jie Xu](https://sites.google.com/site/jiexuhomepage/home) in 2023. From 2015 to 2018, I worked in [ZTE Corporation](https://www.zte.com.cn/global/) as a Software Engineer. Prior to that, I received his M.S. and B.S. degrees in Electrical Engineering from Shanghai University and Shanghai Normal University in 2015 and 2012, respectively.
+
+<r>Opening: I am looking for self-motivated PhD/master/undergraduate students to join my group. Please send me a short email with your C.V. and anything you believe relevant!</r>
+
+Email: letian.zhang AT mtsu.edu
 
 ### Research Interests:
 - AI/Machine Learning for wireless networking
