@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Letian Zhang"
 title_separator          : "-"
 name                     : &name "Letian Zhang"
-description              : &description "Ph.D. candidate, Electrical and Computer Engineering Department, University of Miami"
+description              : &description "Assistant Professor at the Middle Tennessee State University"
 url                      : https://letian-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "letian-zhang/letian-zhang.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Letian Zhang"
   avatar           : "letian.jpg"
-  bio              : "Ph.D. candidate, ECE, University of Miami"
-  location         : "Miami, USA"
+  bio              : "Assistant Professor, Middle Tennessee State University"
+  location         : "Murfreesboro, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Oanj4ysAAAAJ&hl=en"
-  email            : "lxz437@miami.edu"
+  email            : "letian.zhang@mtsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://sites.google.com/view/letian-zhang"
+  uri              : # "https://sites.google.com/view/letian-zhang"
   bitbucket        :
   codepen          :
   dribbble         :
