@@ -7,5 +7,5 @@ main:
   - title: "Experience"
     url: /experience/    
 
-  - title: "Projects"
-    url: /projects/    
+#   - title: "Projects"
+#     url: /projects/    
