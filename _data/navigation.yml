@@ -13,10 +13,11 @@ main:
 #       url: /_pages/csci3130.md
 #     - page: "TBD"
 #       url: /_pages/teaching.html
+  - title: "Courses"
+    url: /courses/     
       
-      
-  - title: "Teaching"
-    url: /teaching/
+#   - title: "Teaching"
+#     url: /teaching/
 
 #   - title: "Projects"
 #     url: /projects/    
