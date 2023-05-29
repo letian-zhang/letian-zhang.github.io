@@ -5,7 +5,10 @@ main:
     url: /publications/
 
   - title: "Experience"
-    url: /experience/    
+    url: /experience/
+  
+  - title: "Courses"
+    url: /courses/
 
 #   - title: "Projects"
 #     url: /projects/    
