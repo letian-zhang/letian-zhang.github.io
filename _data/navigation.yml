@@ -8,8 +8,7 @@ main:
     url: /experience/
   
   - title: "Teaching"
-    - title: "csci3130"
-      url: /csci3130/ 
+    url: /teaching/ 
 
 #   - title: "Projects"
 #     url: /projects/    
