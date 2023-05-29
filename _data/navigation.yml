@@ -7,12 +7,12 @@ main:
   - title: "Experience"
     url: /experience/
   
-  - title: "Teaching"
-    subfolderitems:
-    - page: "CSCI3130"
-      url: /teaching.html
 #   - title: "Teaching"
-#     url: /teaching/ 
+#     subfolderitems:
+#     - page: "CSCI3130"
+#       url: /teaching.html
+  - title: "Teaching"
+    url: /teaching/ 
 
 #   - title: "Projects"
 #     url: /projects/    
