@@ -7,16 +7,16 @@ main:
   - title: "Experience"
     url: /experience/
   
-  - title: "Teaching"
-    subfolderitems:
-    - page: "CSCI3130"
-      url: /_pages/csci3130.md
-    - page: "TBD"
-      url: /_pages/teaching.html
-      
-      
 #   - title: "Teaching"
-#     url: /_pages/csci3130
+#     subfolderitems:
+#     - page: "CSCI3130"
+#       url: /_pages/csci3130.md
+#     - page: "TBD"
+#       url: /_pages/teaching.html
+      
+      
+  - title: "Teaching"
+    url: /teaching/
 
 #   - title: "Projects"
 #     url: /projects/    
