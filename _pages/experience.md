@@ -36,6 +36,7 @@ author_profile: true
 - IEEE Transactions on Green Communications and Networking
 - IEEE WCNC 2021, 2022
 - IEEE Globecom 2019
+- IEEE MASS 2023
 
 <!-- # Professional Membership -->
 <!-- - Student member of IEEE -->
