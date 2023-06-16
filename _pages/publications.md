@@ -4,11 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-- C. Shen, **L. Zhang**, Z. Yang, M. Mortazavi, X. Song, L. Peng, H. Yu. Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering. Efficient Deep Learning for Computer Vision CVPR Workshop 2023.
-- **L. Zhang**, J. Xu. E<sup>3</sup>Pose: Energy-Efficient Edge-assisted Multi-camera System for Multi-human 3D Pose Estimation. The 8th ACM/IEEE Conference on Internet of Things Design and Implementation. **IoTDI 2023**.
-- H. Yin, **L. Zhang**, J. Xu. Adversarial Group Linear Bandits and Its Application to Collaborative Edge Inference. IEEE International Conference on Computer Communications. **INFOCOM 2023**.
-- **L. Zhang**, J. Xu. Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements. IEEE Internet of Things Journal, 2021.
-- **L. Zhang**, L. Chen, J. Xu. Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning. Proceedings of the Web Conference 2021. **WWW 2021**. [video](https://www.youtube.com/watch?v=VSqSmeg4mAM), [code](https://github.com/letian-zhang/ANS)
+- C. Shen, **L. Zhang**, Z. Yang, M. Mortazavi, X. Song, L. Peng, H. Yu. **Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**. Efficient Deep Learning for Computer Vision CVPR Workshop 2023.
+- **L. Zhang**, J. Xu. **E<sup>3</sup>Pose: Energy-Efficient Edge-assisted Multi-camera System for Multi-human 3D Pose Estimation**. The 8th ACM/IEEE Conference on Internet of Things Design and Implementation. **IoTDI 2023**.
+- H. Yin, **L. Zhang**, J. Xu. **Adversarial Group Linear Bandits and Its Application to Collaborative Edge Inference**. IEEE International Conference on Computer Communications. **INFOCOM 2023**.
+- **L. Zhang**, J. Xu. **Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements**. IEEE Internet of Things Journal, 2021.
+- **L. Zhang**, L. Chen, J. Xu. **Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning**. Proceedings of the Web Conference 2021. **WWW 2021**. [video](https://www.youtube.com/watch?v=VSqSmeg4mAM), [code](https://github.com/letian-zhang/ANS)
 - Y. Bai, L. Chen, **L. Zhang**, M. Abdel-Mottaleb, J. Xu. Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms. IEEE International Conference on Mobile Ad-Hoc and Smart Systems. **MASS 2021**.
 - **L. Zhang**, J. Xu. Fooling Edge Computation Offloading via Stealthy Interference Attack. IEEE/ACM Symposium on Edge Computing (SEC), 2020.
 - **L. Zhang**, J. Xu. Differential Security Game in Heterogeneous Device-to-Device Offloading Network under Epidemic Risks. IEEE Transactions on Network Science and Engineering, vol. 7, no. 3, pp. 1852-1861, 2020.
