@@ -37,7 +37,10 @@ author_profile: true
 - IEEE WCNC 2021, 2022
 - IEEE Globecom 2019
 - IEEE MASS 2023
-- ICA3PP 2023 (TPC member)
+
+# Services
+- ICA3PP 2023 TPC member
+- CPD 2023 Web Chair
 
 <!-- # Professional Membership -->
 <!-- - Student member of IEEE -->
