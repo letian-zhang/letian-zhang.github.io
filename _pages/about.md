@@ -23,6 +23,7 @@ I am a tenure-track Assistant Professor of Computer Science at the Middle Tennes
 - Systems for AI/Machine Learning
 
 # News
+- [08/2023] Our paper "**CrossVision: Real-time On-Camera Video Analysis via Common RoI Load Balancing**" is accepted by IEEE TMC.
 - [01/2023] Our paper "**E<sup>3</sup>Pose: Energy-Efficient Edge-assisted Multi-camera System for Multi-human 3D Pose Estimation**" is accepted by IoTDI 2023 (acceptance rate 30.2%).
 - [12/2022] Our paper "**Adversarial Group Linear Bandits and Its Application to Collaborative Edge Inference**" is accepted by INFOCOM 2023 (acceptance rate 19.2%).
 - [11/2022] Selected to receive **Eliahu I and Joyce Jury Award**, the best graduate in the Electrical and Computer Engineering department on 2022!
