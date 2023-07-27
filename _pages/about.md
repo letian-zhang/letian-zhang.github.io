@@ -19,7 +19,8 @@ I am a tenure-track Assistant Professor of Computer Science at the Middle Tennes
 <o>Opening: I am looking for self-motivated PhD/master/undergraduate students to join my group. Please send me a short email with your C.V. and anything you believe relevant!</o>
 
 ### Research Interests:
-- AI/Machine Learning for wireless networking
+- Mobile Edge Computing/Intelligence
+- AI/Machine Learning for networks
 - Systems for AI/Machine Learning
 
 # News
