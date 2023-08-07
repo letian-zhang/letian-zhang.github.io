@@ -29,18 +29,22 @@ author_profile: true
 - Kwang-Hua First Prize Scholarship (Top 3% of all students), 2014
 - Shanghai Normal University Scholarship (three times), 2008 to 2011
 
-# Paper Reviewers
-- IEEE Transactions on Mobile Computing
-- IEEE Open Journal of the Communications Society
-- IEEE Transactions on Network Science and Engineering
-- IEEE Transactions on Green Communications and Networking
-- IEEE WCNC 2021, 2022
-- IEEE Globecom 2019
-- IEEE MASS 2023
+# Professional Services
+- Conference Chair
+  - Web Chair, CPD 2023: Combining Physical and Data-Driven Knowledge in Ubiquitous Computing, 2023.
 
-# Services
-- ICA3PP 2023 TPC member
-- CPD 2023 Web Chair
+- Paper Reviewers
+  - IEEE Transactions on Mobile Computing
+  - IEEE Open Journal of the Communications Society
+  - IEEE Transactions on Network Science and Engineering
+  - IEEE Transactions on Green Communications and Networking
+  - IEEE WCNC 2021, 2022
+  - IEEE Globecom 2019
+  - IEEE MASS 2023
+
+- TPC Member
+  - ICA3PP 2023 TPC member
+
 
 <!-- # Professional Membership -->
 <!-- - Student member of IEEE -->
