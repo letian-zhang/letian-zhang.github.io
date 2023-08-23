@@ -8,7 +8,7 @@ permalink: /courses/
 <!--* ### [CSCI3130: Assembly and Computer Organization](https://letian-zhang.github.io/CSCI3130/) -->
 <!--   * Fall 2023 -->
 
-* ### [CSCI3130: Assembly and Computer Organization](https://letian-zhang.github.io/CSCI3130/)
+* ### CSCI3130: Assembly and Computer Organization
   * Fall 2023
 
 
