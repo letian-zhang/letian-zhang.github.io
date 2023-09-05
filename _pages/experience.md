@@ -44,6 +44,7 @@ author_profile: true
   - IEEE WCNC 2021, 2022
   - IEEE Globecom 2019
   - IEEE MASS 2023
+  - IEEE MSN 2023
 
 
 
