@@ -4,10 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **L. Zhang**, L. Song, Z. Lu, J. Xu. [CrossVision: Real-time On-Camera Video Analysis via Common RoI Load Balancing](). IEEE Transactions on Mobile Computing, 2023.
+- **L. Zhang**, L. Song, Z. Lu, J. Xu. [CrossVision: Real-time On-Camera Video Analysis via Common RoI Load Balancing](https://ieeexplore.ieee.org/abstract/document/10202594). IEEE Transactions on Mobile Computing, 2023.
 - C. Shen, **L. Zhang**, Z. Yang, M. Mortazavi, X. Song, L. Peng, H. Yu. [Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering](https://openaccess.thecvf.com/content/CVPR2023W/ECV/papers/Shen_Envisioning_a_Next_Generation_Extended_Reality_Conferencing_System_With_Efficient_CVPRW_2023_paper.pdf). Efficient Deep Learning for Computer Vision CVPR Workshop 2023.
 - **L. Zhang**, J. Xu. [E<sup>3</sup>Pose: Energy-Efficient Edge-assisted Multi-camera System for Multi-human 3D Pose Estimation](https://dl.acm.org/doi/abs/10.1145/3576842.3582370). The 8th ACM/IEEE Conference on Internet of Things Design and Implementation. **IoTDI 2023**.
-- H. Yin, **L. Zhang**, J. Xu. [Adversarial Group Linear Bandits and Its Application to Collaborative Edge Inference](). IEEE International Conference on Computer Communications. **INFOCOM 2023**.
+- H. Yin, **L. Zhang**, J. Xu. [Adversarial Group Linear Bandits and Its Application to Collaborative Edge Inference](https://ieeexplore-ieee-org.ezproxy.mtsu.edu/document/10228900?arnumber=10228900). IEEE International Conference on Computer Communications. **INFOCOM 2023**.
 - **L. Zhang**, J. Xu. [Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements](https://ieeexplore.ieee.org/document/9612607). IEEE Internet of Things Journal, 2021.
 - **L. Zhang**, L. Chen, J. Xu. [Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning](https://dl.acm.org/doi/abs/10.1145/3442381.3450051). Proceedings of the Web Conference 2021. **WWW 2021**. [video](https://www.youtube.com/watch?v=VSqSmeg4mAM), [code](https://github.com/letian-zhang/ANS)
 - Y. Bai, L. Chen, **L. Zhang**, M. Abdel-Mottaleb, J. Xu. [Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms](https://ieeexplore.ieee.org/document/9637765). IEEE International Conference on Mobile Ad-Hoc and Smart Systems. **MASS 2021**.
