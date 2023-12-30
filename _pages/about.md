@@ -28,7 +28,7 @@ I am a tenure-track Assistant Professor of [Computer Science](https://www.mtsu.e
 - [08/2023] 1 paper is accepted by IEEE TMC.
 - [01/2023] 1 paper is accepted by IoTDI 2023.
 - [12/2022] 1 paper is accepted by INFOCOM 2023.
-- [11/2022] Selected to receive **Eliahu I and Joyce Jury Award**, the best graduate in the Electrical and Computer Engineering department on 2022!
+- [11/2022] **Award**: **Eliahu I and Joyce Jury Award**, the best graduate in the Electrical and Computer Engineering department on 2022!
 - [08/2022] I finished my Summer 2022 research intern in Futurewei about Neural Rendering in metaverse.
 - [07/2021] 1 paper is accepted by MASS 2021. 
 - [03/2021] I received the Student Scholarship award to attend the Web Conference 2021.
