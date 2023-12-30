@@ -23,11 +23,11 @@ author_profile: true
 <!-- Shanghai University, 08/2012 to 05/2015. -->
 
 # Awards
+- NSF CRII Early Career Award, 2024
 - Eliahu I. and Joyce Jury award, University of Miami, The best graduate from the department on 2022
 - WWW Student Scholarship, 2021
-- National Scholarship for Graduate Students (Top 3% of all students), 2014
-- Kwang-Hua First Prize Scholarship (Top 3% of all students), 2014
-- Shanghai Normal University Scholarship (three times), 2008 to 2011
+- National Scholarship for Graduate Students (Top 1% of all students), 2014
+- Kwang-Hua First Prize Scholarship (Top 1% of all students), 2014
 
 # Professional Services
 - Conference Chair
