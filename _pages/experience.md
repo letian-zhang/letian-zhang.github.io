@@ -41,6 +41,7 @@ author_profile: true
   - IEEE Open Journal of the Communications Society
   - IEEE Transactions on Network Science and Engineering
   - IEEE Transactions on Green Communications and Networking
+  - IEEE Transactions on Dependable and Secure Computing
   - IEEE WCNC 2021, 2022
   - IEEE Globecom 2019
   - IEEE MASS 2023
