@@ -34,7 +34,7 @@ author_profile: true
   - Web Chair, CPD 2023: Combining Physical and Data-Driven Knowledge in Ubiquitous Computing, 2023.
 
 - TPC Member
-  - ICA3PP 2023 TPC member
+  - ICA3PP 2023, 2024 TPC member
 
 - Paper Reviewers
   - IEEE Transactions on Mobile Computing
