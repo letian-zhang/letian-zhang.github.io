@@ -24,6 +24,7 @@ I am a tenure-track Assistant Professor of [Computer Science](https://www.mtsu.e
 - Systems for AI/Machine Learning
 
 # News
+- [09/2024] One paper is acccepted by NeurIPS 2024
 - [01/2024] **Grant**: Project funded by NSF CRII (CNS Division).
 - [08/2023] One paper is accepted by IEEE TMC.
 - [01/2023] One paper is accepted by IoTDI 2023.
