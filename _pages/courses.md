@@ -9,7 +9,7 @@ permalink: /courses/
 <!--   * Fall 2023 -->
 
 * ### CSCI3130: Assembly and Computer Organization
-  * Fall 2023, Spring 2024
+  * Fall 2023 to present
 
 
 
