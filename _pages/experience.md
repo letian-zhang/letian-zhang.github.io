@@ -37,6 +37,7 @@ author_profile: true
 
 - Paper Reviewers
   - IEEE Transactions on Mobile Computing
+  - IEEE Transactions on Communications
   - IEEE Open Journal of the Communications Society
   - IEEE Transactions on Network Science and Engineering
   - IEEE Transactions on Green Communications and Networking
