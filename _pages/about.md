@@ -23,6 +23,7 @@ I am a tenure-track Assistant Professor of [Computer Science](https://www.mtsu.e
 - AI/Machine Learning for networks
 - Systems for AI/Machine Learning
 
+---
 # News
 - [09/2024] One paper is acccepted by NeurIPS 2024
 - [01/2024] **Grant**: Project funded by NSF CRII (CNS Division).
@@ -34,3 +35,4 @@ I am a tenure-track Assistant Professor of [Computer Science](https://www.mtsu.e
 - [07/2021] One paper is accepted by MASS 2021. 
 - [03/2021] I received the Student Scholarship award to attend the Web Conference 2021.
 - [01/2021] One paper is accepted by ACM The Web Conference (WWW) 2021. 
+---
