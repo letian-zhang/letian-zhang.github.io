@@ -565,6 +565,7 @@ let rsc = {
             case 3:
                 this.add_to_trace("CLAC");
                 this.component.ACC = 0;
+		this.setZ();
                 break;
             case 4:
                 this.component.SC = -1;
@@ -577,6 +578,7 @@ let rsc = {
             case 3:
                 this.add_to_trace("AND");
                 this.component.ACC = this.component.ACC & this.component.R;
+		this.setZ();
                 break;
             case 4:
                 this.component.SC = -1;
@@ -589,6 +591,7 @@ let rsc = {
             case 3:
                 this.add_to_trace("OR");
                 this.component.ACC = this.component.ACC | this.component.R;
+		this.setZ();
                 break;
             case 4:
                 this.component.SC = -1;
@@ -601,6 +604,7 @@ let rsc = {
             case 3:
                 this.add_to_trace("ASHR");
                 this.component.ACC = this.component.ACC >>> 1;
+		this.setZ();
                 break;
             case 4:
                 this.component.SC = -1;
@@ -613,6 +617,7 @@ let rsc = {
             case 3:
                 this.add_to_trace("NOT");
                 this.component.ACC = ~this.component.ACC;
+		this.setZ();
                 break;
             case 4:
                 this.component.SC = -1;
