@@ -10,7 +10,7 @@ permalink: /courses/
 
 * ### CSCI3130: Assembly and Computer Organization
   * Fall 2023 to present
-  * [Web RSEM simulator](./index.html)
+  * [Web RSEM simulator](./rsem_simulator.html)
 
 
 
