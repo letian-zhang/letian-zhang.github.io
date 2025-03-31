@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Letian Zhang, Ming Li, Chen Chen, Jie Xu. [IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment](https://arxiv.org/abs/2312.05748). 4th Computer Vision for Metaverse CVPR Workshop 2025.
 - Lei Wang, Jieming Bian, **Letian Zhang**, Chen Chen, Jie Xu. [Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains](https://arxiv.org/abs/2403.09048). The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
 - **Letian Zhang**, Linqi Song, Zhuo Lu, Jie Xu. [CrossVision: Real-time On-Camera Video Analysis via Common RoI Load Balancing](https://ieeexplore.ieee.org/abstract/document/10202594). IEEE Transactions on Mobile Computing, 2024.
 - Chuanyue Shen, **Letian Zhang**, Zhangsihao Yang, Masood Mortazavi, Xiyun Song, Liang Peng, Heather Yu. [Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering](https://openaccess.thecvf.com/content/CVPR2023W/ECV/papers/Shen_Envisioning_a_Next_Generation_Extended_Reality_Conferencing_System_With_Efficient_CVPRW_2023_paper.pdf). Efficient Deep Learning for Computer Vision CVPR Workshop 2023.
