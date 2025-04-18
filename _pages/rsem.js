@@ -39,12 +39,12 @@ function assemble(){
         OUT : "7",
         SUB : "8",
         ADD : "9",
-        INC : "10",
-        CLAC : "11",
-        AND : "12",
-        OR : "13",
-        ASHR : "14",
-        NOT : "15"
+        INC : "A",
+        CLAC : "B",
+        AND : "C",
+        OR : "D",
+        ASHR : "E",
+        NOT : "F"
     };
     
     let label = {};
@@ -172,7 +172,7 @@ function assemble(){
             else{
                 try {
                     //parse hex
-                    mem[index] = parseInt(mem[index], 10);                
+                    mem[index] = parseInt(mem[index], 16);                
                 }catch(error){
                     err.print('ERROR: unknown error. Tried to parse an integer and failed. See console for more info.');
                     console.log(error);
