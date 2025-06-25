@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu. [LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement](https://arxiv.org/pdf/2411.14961). International Conference on Computer Vision, (ICCV), 2025.
 - **Letian Zhang**, Ming Li, Chen Chen, Jie Xu. [IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment](https://arxiv.org/abs/2312.05748). 4th Computer Vision for Metaverse CVPR Workshop 2025.
 - Lei Wang, Jieming Bian, **Letian Zhang**, Chen Chen, Jie Xu. [Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains](https://arxiv.org/abs/2403.09048). The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
 - **Letian Zhang**, Linqi Song, Zhuo Lu, Jie Xu. [CrossVision: Real-time On-Camera Video Analysis via Common RoI Load Balancing](https://ieeexplore.ieee.org/abstract/document/10202594). IEEE Transactions on Mobile Computing, 2024.
