@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Yin Huang, **Letian Zhang**, Jie Xu, “Learning the Optimal Path and DNN Partition for Collaborative Edge Inference,” IEEE Transactions on Mobile Computing, 2026. 
 - Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu. [LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement](https://arxiv.org/pdf/2411.14961). International Conference on Computer Vision, (ICCV), 2025.
 - **Letian Zhang**, Ming Li, Chen Chen, Jie Xu. [IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment](https://arxiv.org/abs/2312.05748). 4th Computer Vision for Metaverse CVPR Workshop 2025.
 - Lei Wang, Jieming Bian, **Letian Zhang**, Chen Chen, Jie Xu. [Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains](https://arxiv.org/abs/2403.09048). The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
