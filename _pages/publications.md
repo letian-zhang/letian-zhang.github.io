@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Learning the Optimal Path and DNN Partition for Collaborative Edge Inference**. [[PDF]]() <br />
+- **Learning the Optimal Path and DNN Partition for Collaborative Edge Inference**. [[PDF]](https://ieeexplore.ieee.org/document/11141772) <br />
   Yin Huang, **Letian Zhang**, Jie Xu <br />
   IEEE Transactions on Mobile Computing, 2026. <br />
   
@@ -16,7 +16,7 @@ author_profile: true
   Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu <br />
   The Thirty-Ninth Annual Conference Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br />
 
-- **LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**. [[PDF]](https://arxiv.org/pdf/2411.14961) <br />
+- **LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**. [[PDF]](https://arxiv.org/pdf/2411.14961), [[Code]](https://github.com/jmbian/LoRA-FAIR) <br />
   Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu <br />
   International Conference on Computer Vision, (**ICCV**), 2025. <br />
   
@@ -49,7 +49,7 @@ author_profile: true
   **Letian Zhang**, Jie Xu. <br />
   IEEE Internet of Things Journal, 2021. <br />
   
-- **Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning**. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3442381.3450051), [[video]](https://www.youtube.com/watch?v=VSqSmeg4mAM), [[code]](https://github.com/letian-zhang/ANS). <br />
+- **Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning**. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3442381.3450051), [[Video]](https://www.youtube.com/watch?v=VSqSmeg4mAM), [[Code]](https://github.com/letian-zhang/ANS). <br />
   **Letian Zhang**, Lixing Chen, Jie Xu <br />
   Proceedings of the Web Conference 2021. **WWW 2021**. <br />
   
