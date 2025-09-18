@@ -4,31 +4,71 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Yin Huang, **Letian Zhang**, Jie Xu. “Learning the Optimal Path and DNN Partition for Collaborative Edge Inference”. IEEE Transactions on Mobile Computing, 2026.
-- **Letian Zhang**, Bo Chen, Jieming Bian, Lei wang, Jie Xu. "FedEL: Federated Elastic Learning for Heterogeneous Devices". The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
-- Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu. “Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning". The Thirty-Ninth Annual Conference Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
-- Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu. [LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement](https://arxiv.org/pdf/2411.14961). International Conference on Computer Vision, (**ICCV**), 2025.
-- **Letian Zhang**, Ming Li, Chen Chen, Jie Xu. [IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment](https://arxiv.org/abs/2312.05748). 4th Computer Vision for Metaverse CVPR Workshop 2025.
-- Lei Wang, Jieming Bian, **Letian Zhang**, Chen Chen, Jie Xu. [Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains](https://arxiv.org/abs/2403.09048). The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024.
-- **Letian Zhang**, Linqi Song, Zhuo Lu, Jie Xu. [CrossVision: Real-time On-Camera Video Analysis via Common RoI Load Balancing](https://ieeexplore.ieee.org/abstract/document/10202594). IEEE Transactions on Mobile Computing, 2024.
-- Chuanyue Shen, **Letian Zhang**, Zhangsihao Yang, Masood Mortazavi, Xiyun Song, Liang Peng, Heather Yu. [Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering](https://openaccess.thecvf.com/content/CVPR2023W/ECV/papers/Shen_Envisioning_a_Next_Generation_Extended_Reality_Conferencing_System_With_Efficient_CVPRW_2023_paper.pdf). Efficient Deep Learning for Computer Vision CVPR Workshop 2023.
-- **Letian Zhang**, Jie Xu. [E<sup>3</sup>Pose: Energy-Efficient Edge-assisted Multi-camera System for Multi-human 3D Pose Estimation](https://dl.acm.org/doi/abs/10.1145/3576842.3582370). The 8th ACM/IEEE Conference on Internet of Things Design and Implementation. **IoTDI 2023**.
-- Yin Huang, **Letian Zhang**, Jie Xu. [Adversarial Group Linear Bandits and Its Application to Collaborative Edge Inference](https://ieeexplore-ieee-org.ezproxy.mtsu.edu/document/10228900?arnumber=10228900). IEEE International Conference on Computer Communications. **INFOCOM 2023**.
-- **Letian Zhang**, Jie Xu. [Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements](https://ieeexplore.ieee.org/document/9612607). IEEE Internet of Things Journal, 2021.
-- **Letian Zhang**, Lixing Chen, Jie Xu. [Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning](https://dl.acm.org/doi/abs/10.1145/3442381.3450051). Proceedings of the Web Conference 2021. **WWW 2021**. [video](https://www.youtube.com/watch?v=VSqSmeg4mAM), [code](https://github.com/letian-zhang/ANS)
-- [Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms](https://ieeexplore.ieee.org/document/9637765)
-  Yang Bai, Lixing Chen, **Letian Zhang**, Mohamed Abdel-Mottaleb, Jie Xu
-  IEEE International Conference on Mobile Ad-Hoc and Smart Systems. **MASS 2021**.
-- [Fooling Edge Computation Offloading via Stealthy Interference Attack](https://ieeexplore.ieee.org/abstract/document/9355594) <br />
+- **Learning the Optimal Path and DNN Partition for Collaborative Edge Inference**. [[PDF]]() <br />
+  Yin Huang, **Letian Zhang**, Jie Xu <br />
+  IEEE Transactions on Mobile Computing, 2026. <br />
+  
+- **FedEL: Federated Elastic Learning for Heterogeneous Devices**. [[PDF]]() <br />
+  **Letian Zhang**, Bo Chen, Jieming Bian, Lei wang, Jie Xu <br />
+  The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br />
+  
+- **Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**. [[PDF]]() <br />
+  Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu <br />
+  The Thirty-Ninth Annual Conference Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br />
+
+- **LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**. [[PDF]](https://arxiv.org/pdf/2411.14961) <br />
+  Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu <br />
+  International Conference on Computer Vision, (**ICCV**), 2025. <br />
+  
+- **IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment**. [[PDF]](https://arxiv.org/abs/2312.05748) <br />
+  **Letian Zhang**, Ming Li, Chen Chen, Jie Xu <br />
+  4th Computer Vision for Metaverse CVPR Workshop 2025. <br />
+  
+- **Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains**. [[PDF]](https://arxiv.org/abs/2403.09048), [[Code]](https://github.com/lei-wang-link/FedPLVM) <br />
+  Lei Wang, Jieming Bian, **Letian Zhang**, Chen Chen, Jie Xu <br />
+  The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024. <br />
+  
+- **CrossVision: Real-time On-Camera Video Analysis via Common RoI Load Balancing**. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10202594) <br />
+  **Letian Zhang**, Linqi Song, Zhuo Lu, Jie Xu <br />
+  IEEE Transactions on Mobile Computing, 2024. <br />
+  
+- **Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**. [[PDF]](https://openaccess.thecvf.com/content/CVPR2023W/ECV/papers/Shen_Envisioning_a_Next_Generation_Extended_Reality_Conferencing_System_With_Efficient_CVPRW_2023_paper.pdf) <br />
+  Chuanyue Shen, **Letian Zhang**, Zhangsihao Yang, Masood Mortazavi, Xiyun Song, Liang Peng, Heather Yu <br />
+  Efficient Deep Learning for Computer Vision CVPR Workshop 2023. <br />
+
+  
+- **E<sup>3</sup>Pose: Energy-Efficient Edge-assisted Multi-camera System for Multi-human 3D Pose Estimation**. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3576842.3582370) <br />
+  **Letian Zhang**, Jie Xu <br />
+  The 8th ACM/IEEE Conference on Internet of Things Design and Implementation. **IoTDI 2023**. <br />
+  
+- **Adversarial Group Linear Bandits and Its Application to Collaborative Edge Inference**. [[PDF]](https://ieeexplore-ieee-org.ezproxy.mtsu.edu/document/10228900?arnumber=10228900).  <br />
+  Yin Huang, **Letian Zhang**, Jie Xu  <br />
+  IEEE International Conference on Computer Communications. **INFOCOM 2023**.  <br />
+  
+- **Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements**. [[PDF]](https://ieeexplore.ieee.org/document/9612607) <br />
+  **Letian Zhang**, Jie Xu. <br />
+  IEEE Internet of Things Journal, 2021. <br />
+  
+- **Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning**. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3442381.3450051), [[video]](https://www.youtube.com/watch?v=VSqSmeg4mAM), [[code]](https://github.com/letian-zhang/ANS). <br />
+  **Letian Zhang**, Lixing Chen, Jie Xu <br />
+  Proceedings of the Web Conference 2021. **WWW 2021**. <br />
+  
+- Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms[[PDF]](https://ieeexplore.ieee.org/document/9637765) <br />
+  Yang Bai, Lixing Chen, **Letian Zhang**, Mohamed Abdel-Mottaleb, Jie Xu <br />
+  IEEE International Conference on Mobile Ad-Hoc and Smart Systems. **MASS 2021**. <br />
+  
+- **Fooling Edge Computation Offloading via Stealthy Interference Attack**. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9355594) <br />
   **Letian Zhang**, Jie Xu <br />
   IEEE/ACM Symposium on Edge Computing (SEC), 2020 <br />
-- [Differential Security Game in Heterogeneous Device-to-Device Offloading Network under Epidemic Risks](https://ieeexplore.ieee.org/document/8910355) <br />
+  
+- **Differential Security Game in Heterogeneous Device-to-Device Offloading Network under Epidemic Risks**. [[PDF]](https://ieeexplore.ieee.org/document/8910355)<br />
   **Letian Zhang**, Jie Xu <br />
   IEEE Transactions on Network Science and Engineering, 2020. <br />
-- **Preventing Malware Propagation in D2D Offloading Networks with Strategic Mobile Users** <br />
+  
+- **Preventing Malware Propagation in D2D Offloading Networks with Strategic Mobile Users**. [[PDF]](https://ieeexplore.ieee.org/document/9014227)<br />
   **Letian Zhang**, Linqi Song, Jie Xu <br />
   IEEE Global Communications Conference. **GLOBECOM 2019**. <br />
-  [[PDF]](https://ieeexplore.ieee.org/document/9014227)
+  
 
 ### Early publications
 - Q. Niu, D. Hua, **L. Zhang**, C. Wang. [Unit Commitment with Wind Power and Pumped Hydro Energy Storage](https://link.springer.com/chapter/10.1007/978-981-10-2669-0_30). Theory, Methodology, Tools, and Applications for Modeling and Simulation of Complex Systems, 2016.
