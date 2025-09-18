@@ -4,10 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Yin Huang, **Letian Zhang**, Jie Xu, “Learning the Optimal Path and DNN Partition for Collaborative Edge Inference,” IEEE Transactions on Mobile Computing, 2026. 
-- Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu. [LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement](https://arxiv.org/pdf/2411.14961). International Conference on Computer Vision, (ICCV), 2025.
+- Yin Huang, **Letian Zhang**, Jie Xu. “Learning the Optimal Path and DNN Partition for Collaborative Edge Inference”. IEEE Transactions on Mobile Computing, 2026.
+- **Letian Zhang**, Bo Chen, Jieming Bian, Lei wang, Jie Xu. "FedEL: Federated Elastic Learning for Heterogeneous Devices". The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
+- Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu. “Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning". The Thirty-Ninth Annual Conference Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
+- Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu. [LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement](https://arxiv.org/pdf/2411.14961). International Conference on Computer Vision, (**ICCV**), 2025.
 - **Letian Zhang**, Ming Li, Chen Chen, Jie Xu. [IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment](https://arxiv.org/abs/2312.05748). 4th Computer Vision for Metaverse CVPR Workshop 2025.
-- Lei Wang, Jieming Bian, **Letian Zhang**, Chen Chen, Jie Xu. [Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains](https://arxiv.org/abs/2403.09048). The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
+- Lei Wang, Jieming Bian, **Letian Zhang**, Chen Chen, Jie Xu. [Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains](https://arxiv.org/abs/2403.09048). The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2024.
 - **Letian Zhang**, Linqi Song, Zhuo Lu, Jie Xu. [CrossVision: Real-time On-Camera Video Analysis via Common RoI Load Balancing](https://ieeexplore.ieee.org/abstract/document/10202594). IEEE Transactions on Mobile Computing, 2024.
 - Chuanyue Shen, **Letian Zhang**, Zhangsihao Yang, Masood Mortazavi, Xiyun Song, Liang Peng, Heather Yu. [Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering](https://openaccess.thecvf.com/content/CVPR2023W/ECV/papers/Shen_Envisioning_a_Next_Generation_Extended_Reality_Conferencing_System_With_Efficient_CVPRW_2023_paper.pdf). Efficient Deep Learning for Computer Vision CVPR Workshop 2023.
 - **Letian Zhang**, Jie Xu. [E<sup>3</sup>Pose: Energy-Efficient Edge-assisted Multi-camera System for Multi-human 3D Pose Estimation](https://dl.acm.org/doi/abs/10.1145/3576842.3582370). The 8th ACM/IEEE Conference on Internet of Things Design and Implementation. **IoTDI 2023**.
