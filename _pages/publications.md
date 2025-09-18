@@ -17,10 +17,14 @@ author_profile: true
 - **Letian Zhang**, Jie Xu. [Learning the Optimal Partition for Collaborative DNN Training with Privacy Requirements](https://ieeexplore.ieee.org/document/9612607). IEEE Internet of Things Journal, 2021.
 - **Letian Zhang**, Lixing Chen, Jie Xu. [Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning](https://dl.acm.org/doi/abs/10.1145/3442381.3450051). Proceedings of the Web Conference 2021. **WWW 2021**. [video](https://www.youtube.com/watch?v=VSqSmeg4mAM), [code](https://github.com/letian-zhang/ANS)
 - Yang Bai, Lixing Chen, **Letian Zhang**, Mohamed Abdel-Mottaleb, Jie Xu. [Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms](https://ieeexplore.ieee.org/document/9637765). IEEE International Conference on Mobile Ad-Hoc and Smart Systems. **MASS 2021**.
-- **Letian Zhang**, Jie Xu. [Fooling Edge Computation Offloading via Stealthy Interference Attack](https://ieeexplore.ieee.org/abstract/document/9355594). IEEE/ACM Symposium on Edge Computing (SEC), 2020.
-- **Letian Zhang**, Jie Xu. [Differential Security Game in Heterogeneous Device-to-Device Offloading Network under Epidemic Risks](https://ieeexplore.ieee.org/document/8910355). IEEE Transactions on Network Science and Engineering, 2020.
+- [Fooling Edge Computation Offloading via Stealthy Interference Attack](https://ieeexplore.ieee.org/abstract/document/9355594) <br />
+  **Letian Zhang**, Jie Xu <br />
+  IEEE/ACM Symposium on Edge Computing (SEC), 2020 <br />
+- [Differential Security Game in Heterogeneous Device-to-Device Offloading Network under Epidemic Risks](https://ieeexplore.ieee.org/document/8910355) <br />
+  **Letian Zhang**, Jie Xu <br />
+  IEEE Transactions on Network Science and Engineering, 2020. <br />
 - [Preventing Malware Propagation in D2D Offloading Networks with Strategic Mobile Users](https://ieeexplore.ieee.org/document/9014227) <br />
-  **Letian Zhang**, Linqi Song, Jie Xu. <br />
+  **Letian Zhang**, Linqi Song, Jie Xu <br />
   IEEE Global Communications Conference. **GLOBECOM 2019**. <br />
 
 ### Early publications
