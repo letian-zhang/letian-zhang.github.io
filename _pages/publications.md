@@ -28,7 +28,7 @@ author_profile: true
 - **Preventing Malware Propagation in D2D Offloading Networks with Strategic Mobile Users** <br />
   **Letian Zhang**, Linqi Song, Jie Xu <br />
   IEEE Global Communications Conference. **GLOBECOM 2019**. <br />
-  [PDF](https://ieeexplore.ieee.org/document/9014227)
+  [[PDF]](https://ieeexplore.ieee.org/document/9014227)
 
 ### Early publications
 - Q. Niu, D. Hua, **L. Zhang**, C. Wang. [Unit Commitment with Wind Power and Pumped Hydro Energy Storage](https://link.springer.com/chapter/10.1007/978-981-10-2669-0_30). Theory, Methodology, Tools, and Applications for Modeling and Simulation of Complex Systems, 2016.
