@@ -53,7 +53,7 @@ author_profile: true
   **Letian Zhang**, Lixing Chen, Jie Xu <br />
   Proceedings of the Web Conference 2021. **WWW 2021**. <br />
   
-- Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms[[PDF]](https://ieeexplore.ieee.org/document/9637765) <br />
+- **Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms**. [[PDF]](https://ieeexplore.ieee.org/document/9637765) <br />
   Yang Bai, Lixing Chen, **Letian Zhang**, Mohamed Abdel-Mottaleb, Jie Xu <br />
   IEEE International Conference on Mobile Ad-Hoc and Smart Systems. **MASS 2021**. <br />
   
