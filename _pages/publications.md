@@ -19,9 +19,9 @@ author_profile: true
 - Yang Bai, Lixing Chen, **Letian Zhang**, Mohamed Abdel-Mottaleb, Jie Xu. [Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms](https://ieeexplore.ieee.org/document/9637765). IEEE International Conference on Mobile Ad-Hoc and Smart Systems. **MASS 2021**.
 - **Letian Zhang**, Jie Xu. [Fooling Edge Computation Offloading via Stealthy Interference Attack](https://ieeexplore.ieee.org/abstract/document/9355594). IEEE/ACM Symposium on Edge Computing (SEC), 2020.
 - **Letian Zhang**, Jie Xu. [Differential Security Game in Heterogeneous Device-to-Device Offloading Network under Epidemic Risks](https://ieeexplore.ieee.org/document/8910355). IEEE Transactions on Network Science and Engineering, 2020.
-- [Preventing Malware Propagation in D2D Offloading Networks with Strategic Mobile Users](https://ieeexplore.ieee.org/document/9014227)
-  **Letian Zhang**, Linqi Song, Jie Xu.
-  IEEE Global Communications Conference. **GLOBECOM 2019**.
+- [Preventing Malware Propagation in D2D Offloading Networks with Strategic Mobile Users](https://ieeexplore.ieee.org/document/9014227) <br />
+  **Letian Zhang**, Linqi Song, Jie Xu. <br />
+  IEEE Global Communications Conference. **GLOBECOM 2019**. <br />
 
 ### Early publications
 - Q. Niu, D. Hua, **L. Zhang**, C. Wang. [Unit Commitment with Wind Power and Pumped Hydro Energy Storage](https://link.springer.com/chapter/10.1007/978-981-10-2669-0_30). Theory, Methodology, Tools, and Applications for Modeling and Simulation of Complex Systems, 2016.
