@@ -14,7 +14,7 @@ author_profile: true
   
 - **Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**. [[PDF]]() <br />
   Lei Wang, Jieming Bian, **Letian Zhang**, Jie Xu <br />
-  The Thirty-Ninth Annual Conference Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br />
+  The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br />
 
 - **LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**. [[PDF]](https://arxiv.org/pdf/2411.14961), [[Code]](https://github.com/jmbian/LoRA-FAIR) <br />
   Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu <br />
