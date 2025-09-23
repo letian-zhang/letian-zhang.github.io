@@ -8,11 +8,11 @@ author_profile: true
   Yin Huang, **Letian Zhang**, Jie Xu <br />
   IEEE Transactions on Mobile Computing, 2026. <br />
   
-- **FedEL: Federated Elastic Learning for Heterogeneous Devices**. [[PDF]]() <br />
+- **FedEL: Federated Elastic Learning for Heterogeneous Devices**. [[PDF]](https://arxiv.org/abs/2509.16902) <br />
   **Letian Zhang**, Bo Chen, Jieming Bian, Lei wang, Jie Xu <br />
   The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br />
   
-- **Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**. [[PDF]]() <br />
+- **Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**. [[PDF]](https://arxiv.org/abs/2509.15087) <br />
   Lei Wang, Jieming Bian, **Letian Zhang**, Jie Xu <br />
   The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br />
 
