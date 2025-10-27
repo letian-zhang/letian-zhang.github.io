@@ -9,6 +9,6 @@ author_profile: true
   * NSF Grant 2348279
   * 2024 to present
     
-* ### [TNGO: AI and Pothole Detection and Rapid Repair Deployment]().
-  * Grant 537738
+* ### [TNGO: AI and Pothole Detection and Rapid Repair Deployment]()
+  * TN Grant 537738
   * 2025 to 2026
