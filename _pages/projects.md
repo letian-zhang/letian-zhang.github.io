@@ -9,6 +9,6 @@ author_profile: true
   * NSF Grant 2348279
   * 2024 to present
     
-* ### [TNGO: AI and Pothole Detection and Rapid Repair Deployment]()
+* ### [TNGO: AI and Pothole Detection and Rapid Repair Deployment](https://tnecd.com/news/tnecd-announces-an-additional-1-million-in-tngo-funding/)
   * TN Grant 537738
   * 2025 to 2026
