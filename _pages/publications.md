@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-World LoRA**. [[PDF]](https://arxiv.org/abs/2503.11880) <br />
+  Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu <br />
+  The Fortieth AAAI Conference on Artificial Intelligence, (**AAAI**), 2026. <br />
+
 - **Learning the Optimal Path and DNN Partition for Collaborative Edge Inference**. [[PDF]](https://ieeexplore.ieee.org/document/11141772) <br />
   Yin Huang, **Letian Zhang**, Jie Xu <br />
   IEEE Transactions on Mobile Computing, 2026. <br />
