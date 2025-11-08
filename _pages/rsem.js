@@ -76,8 +76,11 @@ function assemble(){
         let asmLines = asmNoComment.split('\n');
         let asmNoEmpty = [];
         asmLines.forEach((x) => {
-            if(x.trim().length){
-                asmNoEmpty.push(x.trim());
+			let trimmed = x.trim();
+            if(trimmed.length){
+                // Replace multiple spaces with a single space
+            	trimmed = trimmed.replace(/\s+/g, ' ');
+            	asmNoEmpty.push(trimmed);
             }
         })
         return asmNoEmpty;
