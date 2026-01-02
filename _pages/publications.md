@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-World LoRA**. [[PDF]](https://arxiv.org/abs/2503.11880) <br />
+- **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-World LoRA**. [[PDF]](https://arxiv.org/abs/2503.11880), [[Code]](https://github.com/jmbian/FedALT) <br />
   Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu <br />
   The Fortieth AAAI Conference on Artificial Intelligence, (**AAAI**), 2026. <br />
 
@@ -16,7 +16,7 @@ author_profile: true
   **Letian Zhang**, Bo Chen, Jieming Bian, Lei wang, Jie Xu <br />
   The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br />
   
-- **Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**. [[PDF]](https://arxiv.org/abs/2509.15087) <br />
+- **Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**. [[PDF]](https://arxiv.org/abs/2509.15087), [[Code]](https://github.com/lei-wang-link/FedLEASE) <br />
   Lei Wang, Jieming Bian, **Letian Zhang**, Jie Xu <br />
   The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. <br />
 
