@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Ripple-Inspired In-Context Learning for Radio Map Estimation**. [[PDF]]() <br />
+  Yuanzhe Peng, **Letian Zhang**, Jie Xu <br />
+  IEEE International Conference on Communications (ICC), 2026. <br />
+
 - **FedALT: Federated Fine-Tuning through Adaptive Local Training with Rest-of-World LoRA**. [[PDF]](https://arxiv.org/abs/2503.11880), [[Code]](https://github.com/jmbian/FedALT) <br />
   Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu <br />
   The Fortieth AAAI Conference on Artificial Intelligence, (**AAAI**), 2026. <br />
