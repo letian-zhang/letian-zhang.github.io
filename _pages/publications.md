@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning**.
+  Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu <br />
+  Forty-Third International Conference on Machine Learning (ICML), 2026. <br />
+
 - **Ripple-Inspired In-Context Learning for Radio Map Estimation**. [[PDF]]() <br />
   Yuanzhe Peng, **Letian Zhang**, Jie Xu <br />
   IEEE International Conference on Communications (ICC), 2026. <br />
