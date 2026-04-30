@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning**.
+- **FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning**.[[PDF]](https://arxiv.org/abs/2603.13282), [[Code]]<br />
   Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu <br />
   Forty-Third International Conference on Machine Learning (ICML), 2026. <br />
 
