@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Importance-aware Resource Allocation for Collaborative Task-Oriented Semantic Communication**. [[PDF]](https://arxiv.org/abs/2606.29052)<br />
+  Kaiyi Lei, Yuanzhe Peng, **Letian Zhang**, Jie Xu <br />
+  IEEE Vehicular Technology Conference (VTC), 2026. <br />
+
 - **FedTreeLoRA: Reconciling Statistical and Functional Heterogeneity in Federated LoRA Fine-Tuning**.[[PDF]](https://arxiv.org/abs/2603.13282), [[Code]]<br />
   Jieming Bian, Lei Wang, **Letian Zhang**, Jie Xu <br />
   Forty-Third International Conference on Machine Learning (ICML), 2026. <br />
