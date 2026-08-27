@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity**. [[PDF]]()<br />
+  Lei Wang, Jieming Bian, **Letian Zhang**, Jie Xu <br />
+  The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026. <br />
+
 - **Importance-aware Resource Allocation for Collaborative Task-Oriented Semantic Communication**. [[PDF]](https://arxiv.org/abs/2606.29052)<br />
   Kaiyi Lei, Yuanzhe Peng, **Letian Zhang**, Jie Xu <br />
   IEEE Vehicular Technology Conference (VTC), 2026. <br />
