@@ -13,7 +13,7 @@ permalink: /courses/
   * [Web RSEM simulator](./rsem_simulator.html)
 
 * ### CSCI4860/5860: Computer Vision
-  * Fall 2025 
+  * Fall 2025 to present 
     
 
 
