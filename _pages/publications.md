@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity**. [[PDF]]()<br />
+- **Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity**. [[PDF]](https://arxiv.org/abs/2609.00632)<br />
   Lei Wang, Jieming Bian, **Letian Zhang**, Jie Xu <br />
   The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026. <br />
 
